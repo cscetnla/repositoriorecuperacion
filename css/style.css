@@ -1,0 +1,162 @@
+header{
+    background-image:url(../img/bg-header.png);
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+.nav-item a{
+    color: #ffffff;
+    margin-left: 15px;
+    transform: translateX(600px);
+    font-size: 25px;
+}
+
+#primera{
+    padding: 200px;
+    margin: 100px;
+}
+
+#primera h1{
+    font-size: 90px;
+    color: #e8f00c;
+}
+
+#primera p{
+    font-size: 40px;
+    color: #ffffff;
+    padding-bottom: 100px;
+}
+
+#primera .boton{
+    margin: 30px;
+    text-decoration:none;
+    font-size:30px;
+    color:#818181;
+    border-radius: 15px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:70px;
+    padding-right:70px;
+    background-color: #e8f00c;
+}
+
+#planesCamping h2{
+    padding: 80px;
+    font-size: 80px;
+    color: #000000;
+}
+
+#planesCamping p{
+    font-size: 25px;
+    margin-bottom: 50px;
+    color: #000000
+}
+
+#planesCamping img{
+    width: 300px;
+    height: 300px;  
+}
+
+#planesCamping .card-planes h3{
+    transform: translateY(-160px);
+    color: #e8f00c;
+}
+
+#planesCamping .card-planes p{
+    font-size: 30px;
+    color: #000000;
+}
+
+
+#viajesDestino h2{
+    padding: 80px;
+    font-size: 80px;
+    color: #e8f00c;
+}
+
+#viajesDestino img{
+    width: 250px;
+    height: 250px;
+}
+
+#viajesDestino{
+    background-image: url(../img/bg-destinos.png);
+    margin-top: 100px;
+    background-size: cover;
+}
+
+#viajesDestino .card-destinos p{
+    color: #ffffff;
+    font-size: 50px;
+    margin-bottom: 60px;
+}
+
+#contacto{
+    background-color: #e8f00c;
+    padding: 60px;
+}
+
+#contacto h2{
+    font-size: 80px;
+    color: #000000;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+#contacto p{
+    font-size: 30px;
+    color: #000000;
+    margin-bottom: 40px;
+}
+
+#contacto label{
+    display: block;
+    font-size: 20px;
+    color: #000000;
+}
+
+#contacto input{
+    padding: 10px;
+    margin: 10px;
+    font-size: 25px;
+}
+
+#contacto select{
+    padding: 10px;
+    margin: 10px;
+    font-size: 25px;
+}
+
+#contacto .contForm{
+    margin-bottom: 60px;
+}
+
+#contacto .boton{
+    margin: 30px;
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 25px;
+    color:#ffffff;
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: #5251518a; 
+}
+
+
+footer #autor{
+    background-color: #000000;
+    padding: 80px;
+}
+
+footer #autor p{
+    text-align: center;
+    font-size: 25px;
+    color: #ffffff;
+    margin: 30px;
+}
+
+
+
